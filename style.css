@@ -1,0 +1,26 @@
+h1{
+    color : blue;
+    text-align: left;
+}
+
+.abu-abu {
+    background-color: lightgray;
+}
+
+.kuning{
+    background-color: yellow;
+    padding: 1px 1px;
+    border-radius: 1px;
+}
+
+.garisbawah{
+    text-decoration: underline;
+}
+
+hr{
+    border: none;
+    height: 1px;
+    background-color: black;
+    width: 100%;
+    margin: 20px auto;
+}
